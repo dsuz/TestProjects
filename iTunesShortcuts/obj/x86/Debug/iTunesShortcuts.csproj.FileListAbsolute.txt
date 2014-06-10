@@ -1,0 +1,11 @@
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Debug\Interop.iTunesLib.dll
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Debug\iTunesShortcuts.csproj.ResolveComReference.cache
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\bin\Debug\iTunesShortcuts.exe
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\bin\Debug\iTunesShortcuts.pdb
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Debug\iTunesShortcuts.Form1.resources
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Debug\iTunesShortcuts.Properties.Resources.resources
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Debug\iTunesShortcuts.exe
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Debug\iTunesShortcuts.pdb

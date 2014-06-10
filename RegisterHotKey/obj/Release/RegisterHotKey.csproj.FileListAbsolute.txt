@@ -1,0 +1,5 @@
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\RegisterHotKey\bin\Release\RegisterHotKey.dll
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\RegisterHotKey\bin\Release\RegisterHotKey.pdb
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\RegisterHotKey\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\RegisterHotKey\obj\Release\RegisterHotKey.dll
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\RegisterHotKey\obj\Release\RegisterHotKey.pdb

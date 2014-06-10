@@ -1,0 +1,34 @@
+﻿Build started 3/2/2013 9:00:41 PM.
+     1>Project "C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\MediaInfo\MediaInfo.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\MediaInfo.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\MediaInfo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\MediaInfo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MediaInfo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MediaInfo.cpp
+         MediaInfo.cpp
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MediaInfo.exe.embed.manifest.res" Debug\MediaInfo_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\MediaInfo\Debug\MediaInfo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MediaInfo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\MediaInfo\Debug\MediaInfo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\MediaInfo\Debug\MediaInfo.lib" /MACHINE:X86 Debug\MediaInfo.exe.embed.manifest.res
+         Debug\MediaInfo.obj
+         Debug\stdafx.obj
+       Manifest:
+         Deleting file "Debug\MediaInfo.exe.embed.manifest".
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MediaInfo.exe.embed.manifest" /manifest Debug\MediaInfo.exe.intermediate.manifest
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MediaInfo.exe.embed.manifest.res" Debug\MediaInfo_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\MediaInfo\Debug\MediaInfo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MediaInfo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\MediaInfo\Debug\MediaInfo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\MediaInfo\Debug\MediaInfo.lib" /MACHINE:X86 Debug\MediaInfo.exe.embed.manifest.res
+         Debug\MediaInfo.obj
+         Debug\stdafx.obj
+         MediaInfo.vcxproj -> C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\MediaInfo\Debug\MediaInfo.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\MediaInfo.unsuccessfulbuild".
+         Touching "Debug\MediaInfo.lastbuildstate".
+     1>Done Building Project "C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\MediaInfo\MediaInfo.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.62

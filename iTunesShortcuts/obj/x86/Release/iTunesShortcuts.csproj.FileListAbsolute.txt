@@ -1,0 +1,11 @@
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Release\Interop.iTunesLib.dll
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Release\iTunesShortcuts.csproj.ResolveComReference.cache
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Release\iTunesShortcuts.Form1.resources
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Release\iTunesShortcuts.Properties.Resources.resources
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\bin\Release\iTunesShortcuts.exe
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\bin\Release\iTunesShortcuts.pdb
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Release\iTunesShortcuts.exe
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\iTunesShortcuts\obj\x86\Release\iTunesShortcuts.pdb

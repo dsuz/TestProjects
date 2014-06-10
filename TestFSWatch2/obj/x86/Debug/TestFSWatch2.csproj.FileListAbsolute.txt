@@ -1,0 +1,9 @@
+c:\users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\TestFSWatch2\bin\Debug\TestFSWatch2.exe
+c:\users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\TestFSWatch2\bin\Debug\TestFSWatch2.pdb
+c:\users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\TestFSWatch2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\TestFSWatch2\obj\x86\Debug\TestFSWatch2.Form1.resources
+c:\users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\TestFSWatch2\obj\x86\Debug\TestFSWatch2.Properties.Resources.resources
+c:\users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\TestFSWatch2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\TestFSWatch2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\TestFSWatch2\obj\x86\Debug\TestFSWatch2.exe
+c:\users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\TestFSWatch2\obj\x86\Debug\TestFSWatch2.pdb

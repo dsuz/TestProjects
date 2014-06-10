@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>http://dsuzukiu/RadioPod/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>08/04/2013 02:12:42</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>08/04/2013 02:12:42</publishTime>
+    </File>
+    <File Include="bin/Podcast.dll">
+      <publishTime>08/04/2013 02:12:17</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>08/04/2013 02:12:41</publishTime>
+    </File>
+    <File Include="RSS.aspx">
+      <publishTime>01/02/2011 23:43:03</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>01/01/2011 13:59:41</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/04/2013 01:46:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

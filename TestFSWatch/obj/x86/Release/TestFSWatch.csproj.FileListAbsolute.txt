@@ -1,0 +1,5 @@
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\TestFSWatch\bin\Release\TestFSWatch.exe
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\TestFSWatch\bin\Release\TestFSWatch.pdb
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\TestFSWatch\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\TestFSWatch\obj\x86\Release\TestFSWatch.exe
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\TestFSWatch\obj\x86\Release\TestFSWatch.pdb

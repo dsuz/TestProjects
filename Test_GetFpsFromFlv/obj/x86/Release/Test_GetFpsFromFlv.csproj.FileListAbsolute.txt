@@ -1,0 +1,6 @@
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Test_GetFpsFromFlv\bin\Release\Test_GetFpsFromFlv.exe
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Test_GetFpsFromFlv\bin\Release\Test_GetFpsFromFlv.pdb
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Test_GetFpsFromFlv\bin\Release\DirectShowLib-2005.dll
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Test_GetFpsFromFlv\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Test_GetFpsFromFlv\obj\x86\Release\Test_GetFpsFromFlv.exe
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Test_GetFpsFromFlv\obj\x86\Release\Test_GetFpsFromFlv.pdb

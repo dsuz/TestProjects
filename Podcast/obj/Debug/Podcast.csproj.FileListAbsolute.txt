@@ -1,0 +1,5 @@
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Podcast\bin\Podcast.dll
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Podcast\bin\Podcast.pdb
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Podcast\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Podcast\obj\Debug\Podcast.dll
+C:\Users\dsuzuki\Documents\Visual Studio 2010\Projects\TestProjects\Podcast\obj\Debug\Podcast.pdb
