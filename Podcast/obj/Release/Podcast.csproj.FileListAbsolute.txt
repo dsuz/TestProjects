@@ -1,5 +1,0 @@
-C:\Users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\Podcast\bin\Podcast.dll
-C:\Users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\Podcast\bin\Podcast.pdb
-C:\Users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\Podcast\obj\Release\ResolveAssemblyReference.cache
-C:\Users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\Podcast\obj\Release\Podcast.dll
-C:\Users\dsuzuki\documents\visual studio 2010\Projects\TestProjects\Podcast\obj\Release\Podcast.pdb
